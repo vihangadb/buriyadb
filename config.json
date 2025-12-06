@@ -1,11 +1,15 @@
 {
   "owner": {
     "name": "BURIYA",
-    "phone": "+947630000000000"
+    "phone": "+94763297205",
+    "role": "Owner",
+    "image": "/assets/owner.jpg"
   },
   "agent": {
     "name": "AVISHKA",
-    "phone": "+94762682109"
+    "phone": "+94762682109",
+    "role": "Admin",
+    "image": "/assets/agent.jpg"
   },
   "ucPhone": "+94763297205",
   "logoUrl": "/logo.jpg",
